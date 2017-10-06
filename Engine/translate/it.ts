@@ -434,32 +434,32 @@
     <message>
         <location filename="../reportdatavisualizer.cpp" line="97"/>
         <source>Success And Rescued</source>
-        <translation>Успешно и восстановлено</translation>
+        <translation>Sucesso e ripristinato</translation>
     </message>
     <message>
         <location filename="../reportdatavisualizer.cpp" line="105"/>
         <source>Fails</source>
-        <translation>Неудач</translation>
+        <translation>Fallimento</translation>
     </message>
     <message>
         <location filename="../reportdatavisualizer.cpp" line="113"/>
         <source>Fails And Rescued</source>
-        <translation>Неудач и восстановлено</translation>
+        <translation>Fallimento e ripristinato</translation>
     </message>
     <message>
         <location filename="../reportdatavisualizer.cpp" line="122"/>
         <source>Time Spent</source>
-        <translation>Время работы</translation>
+        <translation>Tempo di esecuzione</translation>
     </message>
     <message>
         <location filename="../reportdatavisualizer.cpp" line="126"/>
         <source>Still Running</source>
-        <translation>Скрипт еще работает</translation>
+        <translation>Script ancora in esecuzione</translation>
     </message>
     <message>
         <location filename="../reportdatavisualizer.cpp" line="128"/>
         <source>Final Message</source>
-        <translation>Последнее сообщение</translation>
+        <translation>Messaggio finale</translation>
     </message>
 </context>
 <context>
@@ -467,12 +467,12 @@
     <message>
         <location filename="../reportdatavisualizerdialog.cpp" line="16"/>
         <source> Reload</source>
-        <translation> Перегрузить</translation>
+        <translation> Riavvia</translation>
     </message>
     <message>
         <location filename="../reportdatavisualizerdialog.cpp" line="21"/>
         <source> Copy To Clipboard</source>
-        <translation> Скопировать в буфер обмена</translation>
+        <translation> Copia negli appunti</translation>
     </message>
 </context>
 <context>
@@ -480,17 +480,17 @@
     <message>
         <location filename="../resourcesvisualizer.cpp" line="68"/>
         <source>Resources list is empty</source>
-        <translation>Список ресурсов пустой</translation>
+        <translation>L'elenco delle risorse è vuoto</translation>
     </message>
     <message>
         <location filename="../resourcesvisualizer.cpp" line="91"/>
         <source>Renew in </source>
-        <translation>Обновление через </translation>
+        <translation>Aggiornamento tra </translation>
     </message>
     <message>
         <location filename="../resourcesvisualizer.cpp" line="109"/>
         <source>Resources Report</source>
-        <translation>Отчет о ресурсах</translation>
+        <translation>Rapporto sulle risorse</translation>
     </message>
 </context>
 <context>
@@ -498,69 +498,69 @@
     <message>
         <location filename="../scriptmultiworker.cpp" line="511"/>
         <source>Script finished with error :</source>
-        <translation>Скрипт выполнен с ошибкой :</translation>
+        <translation>Script è eseguito con errore :</translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="515"/>
         <source> Line number:</source>
-        <translation> Номер строки:</translation>
+        <translation> Numero di linea:</translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="515"/>
         <source> During execution of script </source>
-        <translation> Во время выполнения скрипта </translation>
+        <translation> Durante l'esecuzione di script </translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="517"/>
         <source>[%1] Script finished with error : </source>
-        <translation>[%1] Скрипт выполнен с ошибкой : </translation>
+        <translation>[%1] Script è eseguito con errore : </translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="561"/>
         <location filename="../scriptmultiworker.cpp" line="883"/>
         <location filename="../scriptmultiworker.cpp" line="884"/>
         <source>Ended with message: </source>
-        <translation>Закончен с сообщением: </translation>
+        <translation>Terminato con messaggio: </translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="577"/>
         <location filename="../scriptmultiworker.cpp" line="590"/>
         <source>Aborted By User</source>
-        <translation>Прервано Пользователем</translation>
+        <translation>Terminato da Utente</translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="606"/>
         <source>[%1] Script finished correctly</source>
-        <translation>[%1] Скрипт завершен корректно</translation>
+        <translation>[%1] Script terminato corretamente</translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="695"/>
         <source>Success</source>
-        <translation>Удачно</translation>
+        <translation>Successo</translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="722"/>
         <source>Stage Timeout</source>
-        <translation>Время На Выполнение Этапа Истекло</translation>
+        <translation>Tempo Essecuzione Tappa Terminato</translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="874"/>
         <source>Too Much Fails</source>
-        <translation>Слишком Много Ошибок</translation>
+        <translation>Troppi Errori</translation>
     </message>
     <message>
         <location filename="../scriptmultiworker.cpp" line="1185"/>
         <location filename="../scriptmultiworker.cpp" line="1186"/>
         <source>All data have been processed</source>
-        <translation>Все данные были обработаны</translation>
+        <translation>Tutti i dati sono stati elaborati</translation>
     </message>
     <message>
         <source>Failed to get resource inside core</source>
-        <translation type="vanished">Не удалось получить ресурс</translation>
+        <translation type="vanished">Impossibile ottenere risorse</translation>
     </message>
     <message>
         <source>failed to get resource</source>
-        <translation type="vanished">не удалось получить ресурс</translation>
+        <translation type="vanished">impossibile ottenere risorse</translation>
     </message>
 </context>
 <context>
@@ -568,47 +568,47 @@
     <message>
         <location filename="../scriptworker.cpp" line="472"/>
         <source>Aborted By User</source>
-        <translation>Прервано Пользователем</translation>
+        <translation>Terminato Da Utente</translation>
     </message>
     <message>
         <location filename="../scriptworker.cpp" line="629"/>
         <source> Line number:</source>
-        <translation> Номер строки:</translation>
+        <translation> Numero di linea:</translation>
     </message>
     <message>
         <location filename="../scriptworker.cpp" line="629"/>
         <source> During execution of script </source>
-        <translation> Во время выполнения скрипта </translation>
+        <translation> Durante l'esecuzione di script </translation>
     </message>
     <message>
         <location filename="../scriptworker.cpp" line="657"/>
         <location filename="../scriptworker.cpp" line="744"/>
         <source>Fail number exceed</source>
-        <translation>Превышено количество ошибок</translation>
+        <translation>Numero di errori superato</translation>
     </message>
     <message>
         <location filename="../scriptworker.cpp" line="664"/>
         <location filename="../scriptworker.cpp" line="814"/>
         <source>Success number exceed</source>
-        <translation>Превышено количество успехов</translation>
+        <translation>Numero di successi superato</translation>
     </message>
     <message>
         <location filename="../scriptworker.cpp" line="861"/>
         <source>Failed because process is stopped</source>
-        <translation>Процесс остановлен</translation>
+        <translation>Processo terminato</translation>
     </message>
     <message>
         <source>failed to get resource </source>
-        <translation type="vanished">не удалось получить ресурс </translation>
+        <translation type="vanished">impossibile ottenere risorse </translation>
     </message>
     <message>
         <location filename="../scriptworker.cpp" line="1257"/>
         <source>Thread suspended</source>
-        <translation>Поток приостановлен</translation>
+        <translation>Thread sospeso</translation>
     </message>
     <message>
         <source>Thread failed</source>
-        <translation type="vanished">Поток аварийно завершился</translation>
+        <translation type="vanished">Flusso аварийно завершился</translation>
     </message>
     <message>
         <source>Thread died</source>
