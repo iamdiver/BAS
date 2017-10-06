@@ -608,7 +608,7 @@
     </message>
     <message>
         <source>Thread failed</source>
-        <translation type="vanished">Flusso аварийно завершился</translation>
+        <translation type="vanished">Flusso fallito аварийно завершился</translation>
     </message>
     <message>
         <source>Thread died</source>
